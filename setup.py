@@ -12,13 +12,13 @@ def readme():
 
 
 setup(
-    name='Flask-Autodoc',
+    name='fork of Flask-Autodoc for Coinalytics',
     version='0.1.1',
-    url='http://github.com/acoomans/flask-autodoc',
+    url='http://github.com/coinalytics/flask-autodoc',
     license='MIT',
-    author='Arnaud Coomans',
-    author_email='arnaud.coomans@gmail.com',
-    description='Documentation generator for flask',
+    author='Bill Gleim',
+    author_email='bill@coinalytics.co',
+    description='API Documentation generator for Coinalytics flask-based API server',
     long_description=readme(),
     #py_modules=['flask_autodoc'],
     # if you would be using a package instead use packages instead
